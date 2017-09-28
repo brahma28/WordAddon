@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApisIt.eDozvola.DokumentAddon", "ApisIt.eDozvola.DokumentAddon\ApisIt.eDozvola.DokumentAddon.csproj", "{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Predprodukcija GRAD|Any CPU = Predprodukcija GRAD|Any CPU
+		Predprodukcija GRAD|x64 = Predprodukcija GRAD|x64
+		Predprodukcija GRAD|x86 = Predprodukcija GRAD|x86
+		Predprodukcija INTERNO|Any CPU = Predprodukcija INTERNO|Any CPU
+		Predprodukcija INTERNO|x64 = Predprodukcija INTERNO|x64
+		Predprodukcija INTERNO|x86 = Predprodukcija INTERNO|x86
+		Produkcija GRAD|Any CPU = Produkcija GRAD|Any CPU
+		Produkcija GRAD|x64 = Produkcija GRAD|x64
+		Produkcija GRAD|x86 = Produkcija GRAD|x86
+		Produkcija INTERNO|Any CPU = Produkcija INTERNO|Any CPU
+		Produkcija INTERNO|x64 = Produkcija INTERNO|x64
+		Produkcija INTERNO|x86 = Produkcija INTERNO|x86
+		Test INTERNO|Any CPU = Test INTERNO|Any CPU
+		Test INTERNO|x64 = Test INTERNO|x64
+		Test INTERNO|x86 = Test INTERNO|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Debug|x64.ActiveCfg = Debug|x64
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Debug|x64.Build.0 = Debug|x64
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Debug|x86.ActiveCfg = Debug|x86
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Debug|x86.Build.0 = Debug|x86
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Predprodukcija GRAD|Any CPU.ActiveCfg = Predprodukcija GRAD|Any CPU
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Predprodukcija GRAD|Any CPU.Build.0 = Predprodukcija GRAD|Any CPU
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Predprodukcija GRAD|x64.ActiveCfg = Predprodukcija GRAD|x64
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Predprodukcija GRAD|x64.Build.0 = Predprodukcija GRAD|x64
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Predprodukcija GRAD|x86.ActiveCfg = Predprodukcija GRAD|x86
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Predprodukcija GRAD|x86.Build.0 = Predprodukcija GRAD|x86
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Predprodukcija INTERNO|Any CPU.ActiveCfg = Predprodukcija INTERNO|Any CPU
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Predprodukcija INTERNO|Any CPU.Build.0 = Predprodukcija INTERNO|Any CPU
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Predprodukcija INTERNO|x64.ActiveCfg = Predprodukcija INTERNO|x64
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Predprodukcija INTERNO|x64.Build.0 = Predprodukcija INTERNO|x64
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Predprodukcija INTERNO|x86.ActiveCfg = Predprodukcija INTERNO|x86
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Predprodukcija INTERNO|x86.Build.0 = Predprodukcija INTERNO|x86
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Produkcija GRAD|Any CPU.ActiveCfg = Produkcija GRAD|Any CPU
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Produkcija GRAD|Any CPU.Build.0 = Produkcija GRAD|Any CPU
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Produkcija GRAD|x64.ActiveCfg = Produkcija GRAD|x64
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Produkcija GRAD|x64.Build.0 = Produkcija GRAD|x64
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Produkcija GRAD|x86.ActiveCfg = Produkcija GRAD|x86
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Produkcija GRAD|x86.Build.0 = Produkcija GRAD|x86
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Produkcija INTERNO|Any CPU.ActiveCfg = Produkcija INTERNO|Any CPU
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Produkcija INTERNO|Any CPU.Build.0 = Produkcija INTERNO|Any CPU
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Produkcija INTERNO|x64.ActiveCfg = Produkcija INTERNO|x64
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Produkcija INTERNO|x64.Build.0 = Produkcija INTERNO|x64
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Produkcija INTERNO|x86.ActiveCfg = Produkcija INTERNO|x86
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Produkcija INTERNO|x86.Build.0 = Produkcija INTERNO|x86
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Test INTERNO|Any CPU.ActiveCfg = Test INTERNO|Any CPU
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Test INTERNO|Any CPU.Build.0 = Test INTERNO|Any CPU
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Test INTERNO|x64.ActiveCfg = Test INTERNO|x64
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Test INTERNO|x64.Build.0 = Test INTERNO|x64
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Test INTERNO|x86.ActiveCfg = Test INTERNO|x86
+		{9F6C1AB2-ACDA-4CBD-8A6B-BE5291685265}.Test INTERNO|x86.Build.0 = Test INTERNO|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
